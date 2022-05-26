@@ -1,5 +1,5 @@
 {
-	"hue": 244,
+	"hue": 20,
 	"isMode": false,
 	"min_count": "1",
 	"max_count": 7,
@@ -9,9 +9,8 @@
 			"menu": "Home"
 		}
 	],
-	"profile": "https://www.instagram.com/username/",
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
-	"title": "john",
+	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
 	"product_title": "Pourquoi vous allez aimer nos produits",
@@ -32,6 +31,5 @@
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
-	],
-	"use": "https://tryphp.w3schools.com/showphp.php?filename=demo_session1"
+	]
 }
