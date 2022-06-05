@@ -53,12 +53,6 @@
 			"team_member_name": "Johddfgn DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "zerzrzerzer"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
 	"url": "http://127.0.0.1:5501/v.2.0.0.html?user=lisa&usera=booba ",
