@@ -1,18 +1,12 @@
 {
-	"hue": 18,
-	"isMode": false,
+	"hue": 20,
+	"isMode": true,
 	"min_count": "1",
 	"max_count": 3,
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
 		{
 			"menu": "Home"
-		},
-		{
-			"menu": "Products"
-		},
-		{
-			"menu": "Contact us"
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
@@ -22,16 +16,6 @@
 	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
-		{
-			"product_card_title": "No programming",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Explore"
-		},
 		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
@@ -46,23 +30,14 @@
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@ec51f136dbfefefe864446de29dc17eea05bf036/images/TopClip-Cardboard-Can-Topper-Multipack-Bundle.jpg",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"data_pane": "Attract me > with a long text > to see what happens ",
+	"data_pane": "Attract > with a long text > to see what happens ",
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"social": [
 		{
 			"profile": "https://www.instagram.com/username/"
-		},
-		{
-			"profile": "https://www.twitter.com/username/"
 		}
 	]
 }
