@@ -1,25 +1,10 @@
 {
-	"hue": 221,
-	"isMode": false,
+	"hue": 20,
+	"isMode": true,
 	"min_count": "1",
-	"max_count": 7,
+	"max_count": 3,
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Products"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
-		{
-			"menu": "Home"
-		},
 		{
 			"menu": "Home"
 		}
@@ -28,14 +13,9 @@
 	"title": "Get 10% off side-wide when you spent $30 with code: new",
 	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
-	"product_title": "Why you'll love our products?",
+	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
-		{
-			"product_card_title": "100% naturels",
-			"product_card_subtitle": "Sans colorants",
-			"product_action": "Explore"
-		},
 		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "A child can use it!",
@@ -46,27 +26,13 @@
 	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
 	"member": [
 		{
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@bffd706d662152b7bc5f74648350189dc588da64/images/4103beb4-ee3a-4847-bae3-a53dba00e405",
-			"team_member_name": "Alexandra",
+			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "Christophe",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "Johddfgn DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "zerzrzerzer"
 		}
 	],
-	"url": "http://127.0.0.1:5501/v.2.0.0.html?user=lisa&usera=booba ",
-	"profile": "https://www.instagram.com/username/",
-	"data_pane": "Equipe",
+	"data_pane": "team",
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"social": [
