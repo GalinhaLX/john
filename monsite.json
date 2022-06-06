@@ -41,12 +41,6 @@
 		},
 		{
 			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
-			"team_member_name": "Alexandra",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
-		},
-		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
 			"team_member_name": "John ererez",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
@@ -66,6 +60,12 @@
 		{
 			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
 			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"team_member_name": "Alexandra",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
