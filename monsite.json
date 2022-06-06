@@ -7,6 +7,9 @@
 	"item": [
 		{
 			"menu": "Home"
+		},
+		{
+			"menu": "products"
 		}
 	],
 	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
@@ -53,10 +56,10 @@
 	"maxsocial_count": 2,
 	"social": [
 		{
-			"profile": "https://www.twitter.com/username/"
+			"profile": "https://www.instagram.com/username/"
 		},
 		{
-			"profile": "https://www.instagram.com/username/"
+			"profile": "https://www.twitter.com/username/"
 		}
 	]
 }
