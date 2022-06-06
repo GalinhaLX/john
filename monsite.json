@@ -1,5 +1,5 @@
 {
-	"hue": 137,
+	"hue": 221,
 	"isMode": false,
 	"min_count": "1",
 	"max_count": 7,
@@ -57,5 +57,12 @@
 	],
 	"url": "http://127.0.0.1:5501/v.2.0.0.html?user=lisa&usera=booba ",
 	"profile": "https://www.instagram.com/username/",
-	"data_pane": "Equipe"
+	"data_pane": "Equipe",
+	"minsocial_count": "1",
+	"maxsocial_count": 2,
+	"social": [
+		{
+			"profile": "https://www.instagram.com/username/"
+		}
+	]
 }
