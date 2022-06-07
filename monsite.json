@@ -1,5 +1,5 @@
 {
-	"hue": 205,
+	"hue": 20,
 	"isMode": false,
 	"min_count": "1",
 	"max_count": 3,
@@ -40,5 +40,5 @@
 			"profile": "https://www.instagram.com/username/"
 		}
 	],
-	"browser-size": "466px"
+	"browser-size": "366px"
 }
