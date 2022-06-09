@@ -1,5 +1,5 @@
 {
-	"hue": 299,
+	"hue": 20,
 	"isMode": false,
 	"min_count": "1",
 	"max_count": 3,
@@ -7,43 +7,24 @@
 	"item": [
 		{
 			"menu": "Home"
-		},
-		{
-			"menu": "Products"
 		}
 	],
-	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@6a13642d5ed145836a806322698c4d07028f477e/images/870c96ef-dda6-4486-b095-6699a00b064f",
-	"title": "Star to sell in a snap!",
-	"subtitle": "Zero to hero: you're a website Champion!",
+	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+	"title": "Get 10% off side-wide when you spent $30 with code: new",
+	"subtitle": "Discover more products and inspiration.",
 	"label": "Explore",
-	"product_title": "Why you're going to love it",
-	"product_subtitle": "Start selling your products & services today",
+	"product_title": "Pourquoi vous allez aimer nos produits",
+	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
 		{
-			"product_card_title": "Simple",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Play"
-		},
-		{
 			"product_card_title": "No programming",
-			"product_card_subtitle": "Gran-ma can use it",
-			"product_action": "Share"
-		},
-		{
-			"product_card_title": "Efficient",
-			"product_card_subtitle": "Sell everything!",
-			"product_action": "Sell"
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Explore"
 		}
 	],
 	"team_title": "Our team",
 	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
 	"member": [
-		{
-			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@b0306e4d584aff72d6b65ccbebf6e6a6b85a5dd1/images/0f7697a9-7870-4721-ad8a-7c804146a1b8",
-			"team_member_name": "John DOE",
-			"team_member_position": "CEO",
-			"team_member_quote": "Always wanted to priuyiyovide a service like this one. Pationate about nature and sport"
-		},
 		{
 			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
 			"team_member_name": "John DOE",
@@ -56,12 +37,7 @@
 	"maxsocial_count": 2,
 	"social": [
 		{
-			"profile": "https://www.twitter.com/username/"
-		},
-		{
 			"profile": "https://www.instagram.com/username/"
 		}
-	],
-	"browser-size": "366px",
-	"tamanho": "200px"
+	]
 }
