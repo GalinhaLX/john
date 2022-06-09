@@ -7,18 +7,12 @@
 	"item": [
 		{
 			"menu": "Home"
-		},
-		{
-			"menu": "Products"
-		},
-		{
-			"menu": "Team"
 		}
 	],
-	"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@1cd602753bc3b22c79ca17019057191a7a77fad7/images/294afd33-8a9e-4a8d-af64-d31589a248a6",
-	"title": "You can edit this text",
-	"subtitle": "All elements are editable, including images, menus, Simply click on on it :)",
-	"label": "Try it",
+	"image": "https://vakcin.com/assets/images/MIX_transparent.png",
+	"title": "Get 10% off side-wide when you spent $30 with code: new",
+	"subtitle": "Discover more products and inspiration.",
+	"label": "Explore",
 	"product_title": "Pourquoi vous allez aimer nos produits",
 	"product_subtitle": "Commencez à vendre vos produits dès à présent",
 	"product_card": [
@@ -38,15 +32,12 @@
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
-	"data_pane": "Team",
+	"data_pane": "Attract > with a long text > to see what happens ",
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"social": [
 		{
 			"profile": "https://www.instagram.com/username/"
-		},
-		{
-			"profile": "https://www.twitter.com/username/"
 		}
 	]
 }
