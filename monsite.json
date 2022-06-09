@@ -42,6 +42,12 @@
 			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@b0306e4d584aff72d6b65ccbebf6e6a6b85a5dd1/images/0f7697a9-7870-4721-ad8a-7c804146a1b8",
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
+			"team_member_quote": "Always wanted to priuyiyovide a service like this one. Pationate about nature and sport"
+		},
+		{
+			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"team_member_name": "John DOE",
+			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
 		}
 	],
