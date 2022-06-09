@@ -20,14 +20,14 @@
 	"product_subtitle": "Start selling your products & services today",
 	"product_card": [
 		{
-			"product_card_title": "Simple",
-			"product_card_subtitle": "A child can use it!",
-			"product_action": "Play"
-		},
-		{
 			"product_card_title": "No programming",
 			"product_card_subtitle": "Gran-ma can use it",
 			"product_action": "Share"
+		},
+		{
+			"product_card_title": "Simple",
+			"product_card_subtitle": "A child can use it!",
+			"product_action": "Play"
 		},
 		{
 			"product_card_title": "Efficient",
