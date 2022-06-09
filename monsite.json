@@ -41,9 +41,5 @@
 	"data_pane": "Attract > with a long text > to see what happens ",
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
-	"social": [
-		{
-			"profile": ""
-		}
-	]
+	"social": []
 }
