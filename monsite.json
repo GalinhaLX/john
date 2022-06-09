@@ -43,10 +43,10 @@
 	"maxsocial_count": 2,
 	"social": [
 		{
-			"profile": "https://www.instagram.com/username/"
+			"profile": ""
 		},
 		{
-			"profile": ""
+			"profile": "https://www.instagram.com/username/"
 		}
 	]
 }
