@@ -39,7 +39,7 @@
 	"team_subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque massa nibh, pulvinar vitae aliquet nec, accumsan aliquet orci.",
 	"member": [
 		{
-			"image": "https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/team-2.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/GalinhaLX/john@956c4991fa4f1019ab94615b37c0a7cbf6d44b5e/images/kv.jpeg",
 			"team_member_name": "John DOE",
 			"team_member_position": "CEO",
 			"team_member_quote": "Always wanted to provide a service like this one. Pationate about nature and sport"
