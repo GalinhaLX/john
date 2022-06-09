@@ -6,10 +6,10 @@
 	"logo": "https://bulma.io/images/bulma-logo.png",
 	"item": [
 		{
-			"menu": "Products"
+			"menu": "Home"
 		},
 		{
-			"menu": "Home"
+			"menu": "Products"
 		},
 		{
 			"menu": "Contact us"
@@ -52,6 +52,9 @@
 	"minsocial_count": "1",
 	"maxsocial_count": 2,
 	"social": [
+		{
+			"profile": "https://www.instagram.com/username/"
+		},
 		{
 			"profile": "https://www.instagram.com/username/"
 		}
